@@ -1,0 +1,1280 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.5f1 (8095aa901b9b) revision 8426922'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 18363.1500; Version 1909; 64bit' Language: 'en' Physical Memory: 32717 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\2020.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Stylised Pirate Asset Pack_urp
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57876
+Successfully changed project path to: D:/Unity Projects/Stylised Pirate Asset Pack_urp
+D:/Unity Projects/Stylised Pirate Asset Pack_urp
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 80.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/2020.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Stylised Pirate Asset Pack_urp/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e82)
+    Vendor:   
+    VRAM:     8010 MB
+    Driver:   27.21.14.6079
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/2020.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/2020.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56892
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/2020.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002726 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 81.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.960 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002018 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 87.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.307 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 206.6 MB.
+System memory in use after: 206.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4252.
+Total: 2.786600 ms (FindLiveObjects: 0.373400 ms CreateObjectMapping: 0.096900 ms MarkObjects: 2.148900 ms  DeleteObjects: 0.166400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab
+  artifactKey: Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab using Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+ -> (artifact id: 'afa41a22c43790286dd911182ede7780') in 1.535368 seconds
+  Import took 1.542500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001410 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab
+  artifactKey: Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab using Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa41a22c43790286dd911182ede7780') in 0.036748 seconds
+  Import took 0.042725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.463138 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab
+  artifactKey: Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab using Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e61676faab4f1578beff2cbf6065571') in 0.064404 seconds
+  Import took 0.071235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab
+  artifactKey: Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab using Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd77a0eeb8aa74fe50bb9603f41a0bf0d') in 0.037781 seconds
+  Import took 0.043536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab
+  artifactKey: Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab using Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7b16a7dabb18fd181a5404df82f05a') in 0.035164 seconds
+  Import took 0.041172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab
+  artifactKey: Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab using Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b17b18a89c5e0948c528316d78394a04') in 0.034998 seconds
+  Import took 0.040888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab
+  artifactKey: Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab using Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d7b16a7dabb18fd181a5404df82f05a') in 0.029743 seconds
+  Import took 0.035296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab
+  artifactKey: Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab using Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e560941ef174f3b6927961daf6fafd') in 0.034210 seconds
+  Import took 0.058543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab
+  artifactKey: Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab using Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e0d0bd68883e0a9da728f1d8d3a0ecb') in 0.031526 seconds
+  Import took 0.037242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab
+  artifactKey: Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab using Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9e14fe7df3ba13c5587f5d5d80e3bcc') in 0.034190 seconds
+  Import took 0.040145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab
+  artifactKey: Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab using Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19d05ddaadb90df9e38229dce22b0b75') in 0.035994 seconds
+  Import took 0.042158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab
+  artifactKey: Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab using Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25033a3d974e0a7ee7e5b951a57b6df5') in 0.044423 seconds
+  Import took 0.050464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab
+  artifactKey: Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab using Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0211a4a13ad8e58f00f5accb545d9382') in 0.038343 seconds
+  Import took 0.044222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab
+  artifactKey: Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab using Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feff4487596bd27d6b3685ec432c2b98') in 0.038796 seconds
+  Import took 0.044965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab
+  artifactKey: Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab using Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0cc71fec7735a3ddd3e879337c46ebf') in 0.031139 seconds
+  Import took 0.037062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab
+  artifactKey: Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab using Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bd94a2802b1da2c5c29aac917f999c') in 0.038540 seconds
+  Import took 0.044908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab
+  artifactKey: Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab using Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dba0c361dabf01809fd09e7d683fff9') in 0.038726 seconds
+  Import took 0.045140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab
+  artifactKey: Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab using Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55ed3d56605046ecf5c33747e3651879') in 0.052058 seconds
+  Import took 0.058070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab
+  artifactKey: Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab using Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55dc7a2271e4fb091ca60a2ed1d18bdd') in 0.042143 seconds
+  Import took 0.048309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab
+  artifactKey: Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab using Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b3f5af1e1f1eb90ed2565fcd0cfb583') in 0.035491 seconds
+  Import took 0.051735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab
+  artifactKey: Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab using Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4cba3036ae3f3ad2e058507005cb011') in 0.034097 seconds
+  Import took 0.040071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab
+  artifactKey: Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab using Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84492f26f4aff0108eae1103fe5832b4') in 0.035229 seconds
+  Import took 0.041011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab
+  artifactKey: Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab using Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9cfc3b16960afb3b5f1ec9bfc4a652d') in 0.041752 seconds
+  Import took 0.047595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab
+  artifactKey: Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab using Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f27c1ee3b2b47f82250f184dc27b1c') in 0.034049 seconds
+  Import took 0.040033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab
+  artifactKey: Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab using Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0115299f08c6ddff6763b0dc03b31e6a') in 0.037722 seconds
+  Import took 0.043476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab
+  artifactKey: Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab using Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f27c1ee3b2b47f82250f184dc27b1c') in 0.032640 seconds
+  Import took 0.038652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab
+  artifactKey: Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab using Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213c2d0aafad902ad5cc9498cfcc6b6a') in 0.032081 seconds
+  Import took 0.037772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.509007 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab
+  artifactKey: Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab using Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9328ed9495d4e6b7ffb45724ef6c37a0') in 0.058953 seconds
+  Import took 0.066218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab
+  artifactKey: Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab using Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5386f5a2a95c450fa9caffb99eb1dc') in 0.039915 seconds
+  Import took 0.046137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab
+  artifactKey: Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab using Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d3d8a8d54ab4aa3d15f4996381d612') in 0.034507 seconds
+  Import took 0.040418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab
+  artifactKey: Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab using Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c48930614eebcf3d821bc0889c54d46c') in 0.033474 seconds
+  Import took 0.039890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab
+  artifactKey: Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab using Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29a96b632efecf468e9b597a7bb2c1dd') in 0.033848 seconds
+  Import took 0.039842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab
+  artifactKey: Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab using Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf8f1e2e2ad3a3f0fc8df451114d846') in 0.031167 seconds
+  Import took 0.037379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab
+  artifactKey: Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab using Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a9a38eafce4154aa4a5581b10a3a225') in 0.043928 seconds
+  Import took 0.050050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab
+  artifactKey: Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab using Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5c8d6405ab506f542e4073e44bf12b') in 0.042398 seconds
+  Import took 0.048759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab
+  artifactKey: Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab using Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba3a35ec581d8dadb1209867293742b2') in 0.039959 seconds
+  Import took 0.055087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab
+  artifactKey: Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab using Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6b0a5819f7ed8f1487ed69a7c08d38') in 0.033172 seconds
+  Import took 0.047838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab
+  artifactKey: Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab using Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b59440eed34cfcce077517a330e136') in 0.043715 seconds
+  Import took 0.050528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab
+  artifactKey: Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab using Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ad8990278d40538d05e79e9aef2d1e') in 0.033013 seconds
+  Import took 0.039179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab
+  artifactKey: Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab using Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b839b88813a6b9aa44550dd62b76b7f') in 0.037577 seconds
+  Import took 0.043805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab
+  artifactKey: Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab using Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd0b56eb5313a7399f8daec697a3c6e') in 0.035309 seconds
+  Import took 0.041344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab
+  artifactKey: Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab using Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e5308d172f19f4ca1480f4420699b93') in 0.037042 seconds
+  Import took 0.043180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab
+  artifactKey: Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab using Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60c3187a9fd0fdbe178e0bda06b73e8') in 0.034048 seconds
+  Import took 0.039897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab
+  artifactKey: Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab using Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d1a2397270e700b04221b0d3809ac3b') in 0.035997 seconds
+  Import took 0.042286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab
+  artifactKey: Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab using Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36759d2814dbe25f041c3f3e85fda83f') in 0.030968 seconds
+  Import took 0.037100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab
+  artifactKey: Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab using Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '728d711c1a80c1bdc474c1d228a383bf') in 0.030564 seconds
+  Import took 0.036678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab
+  artifactKey: Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab using Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dbcd07ca1e4784ec512a3fa93d7a723') in 0.036437 seconds
+  Import took 0.043491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.759388 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab
+  artifactKey: Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab using Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c17f679f880b87b47b0f933ec685d3') in 0.047652 seconds
+  Import took 0.053867 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.038264 seconds
+  ERROR: Build asset version error: assets/stylized pirate asset set/prefabs/items/workbench.prefab in SourceAssetDB has modification time of '2021-05-10T18:44:42.2253116Z' while content on disk has modification time of '2021-05-10T18:44:42.4475139Z'
+  Import took 0.044252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097458 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1a8de574ed4b01e745487e458fe8bc') in 0.051211 seconds
+  Import took 0.057446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1afbb7afe5680fd191fabd903cd7fdc') in 0.052724 seconds
+  Import took 0.058546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1a8de574ed4b01e745487e458fe8bc') in 0.031841 seconds
+  Import took 0.037746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab
+  artifactKey: Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab using Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750ee292fdb6f1c735cbbb4f8ef81aae') in 0.032729 seconds
+  Import took 0.039245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.663099 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab
+  artifactKey: Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab using Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bfbc5304cd82bc4d67bbe12816c75df') in 0.081390 seconds
+  Import took 0.091259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c1379a638419dc79c21856cd0eb987') in 0.134575 seconds
+  Import took 0.147532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3b55de038c90db848899658857f7de') in 0.037440 seconds
+  Import took 0.043980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab
+  artifactKey: Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab using Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1504d0e4fed25a7da46869f9ac8355a') in 0.104454 seconds
+  Import took 0.117326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e3b55de038c90db848899658857f7de') in 0.037168 seconds
+  Import took 0.043348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.819919 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab
+  artifactKey: Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab using Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acadd84fd03170e4a67705bcc57acfdc') in 0.066632 seconds
+  Import took 0.075825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab
+  artifactKey: Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab using Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a0a76ac0a189c685e1b08a77b01e85') in 0.079611 seconds
+  Import took 0.088877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3ce0f1465f5b69785c22f9bf4a3eea3') in 0.111810 seconds
+  Import took 0.124473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab
+  artifactKey: Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab using Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7478bfd0b656fe812f1a12b067ecd43') in 0.047690 seconds
+  Import took 0.054042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba5d4f1d5b1f96449812c47b6407485') in 0.034270 seconds
+  Import took 0.040453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab
+  artifactKey: Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab using Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044cdd5d9be2bcdb7e47af123ebc8abc') in 0.044243 seconds
+  Import took 0.050295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab
+  artifactKey: Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab using Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f89d413725107226fdfa03192bb4420') in 0.036928 seconds
+  Import took 0.043034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab
+  artifactKey: Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab using Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c205cd4352fd1aa1583ed646037d257') in 0.035165 seconds
+  Import took 0.047045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab
+  artifactKey: Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab using Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '738dd6de0952ebd247561f0a01b36d5c') in 0.038140 seconds
+  Import took 0.044490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3b3920e781fedd919749b1bf7d120c') in 0.035796 seconds
+  Import took 0.042282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab
+  artifactKey: Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab using Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572be3804d495f31b12f6b8ad0ebdee8') in 0.037796 seconds
+  Import took 0.044171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee3b3920e781fedd919749b1bf7d120c') in 0.037636 seconds
+  Import took 0.043858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab
+  artifactKey: Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab using Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83572515b1a68a75100e76f20cf9cb97') in 0.067806 seconds
+  Import took 0.077020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab
+  artifactKey: Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab using Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6186a878661daf9b6cb17dab88e6a1') in 0.111612 seconds
+  Import took 0.125181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab
+  artifactKey: Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab using Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '653b94bf0998c5f4001bfd7c0e8d172a') in 0.039624 seconds
+  Import took 0.045976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab
+  artifactKey: Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab using Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81ca5202c3ecde26aa297a33ab54d4a') in 0.037415 seconds
+  Import took 0.043824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab
+  artifactKey: Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab using Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5725a07181c821c00cfd8e4309b1b38') in 0.041758 seconds
+  Import took 0.047904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab
+  artifactKey: Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab using Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a81ca5202c3ecde26aa297a33ab54d4a') in 0.033693 seconds
+  Import took 0.040168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.516418 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab
+  artifactKey: Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab using Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd97f5f34e680e4cf4bd0950be35701d8') in 0.082884 seconds
+  Import took 0.092617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab
+  artifactKey: Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab using Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ee3b927345c4b61a34b2d4644fe33f') in 0.061892 seconds
+  Import took 0.072269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c7f773d79da2b7e48b0cbf4a555fc66') in 0.099030 seconds
+  Import took 0.111951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab
+  artifactKey: Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab using Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c8879aa565eb1ef970fe4e66cb6e686') in 0.035014 seconds
+  Import took 0.041667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b0997da1639d0344d2491e29ccf9a0') in 0.037009 seconds
+  Import took 0.043732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab
+  artifactKey: Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab using Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899a5fa00f390b6481b41b57d1b9592c') in 0.037590 seconds
+  Import took 0.108830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab
+  artifactKey: Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab using Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adab488b045bea637cce6469e0ef8777') in 0.032664 seconds
+  Import took 0.039257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab
+  artifactKey: Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab using Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '889b5e08c37cc5f34165dab738a9ac2e') in 0.034527 seconds
+  Import took 0.040839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0995eca2c133868d90cf771d1b7317a') in 0.035858 seconds
+  Import took 0.042024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab
+  artifactKey: Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab using Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88efb01f4e8f747d445d122bf8177d50') in 0.040031 seconds
+  Import took 0.046355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab
+  artifactKey: Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab using Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f35b13d75a72f848db969a28ebb7bef') in 0.074504 seconds
+  Import took 0.084152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab
+  artifactKey: Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab using Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cfbdab4962def41ec74056e43520af0') in 0.095305 seconds
+  Import took 0.110436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab
+  artifactKey: Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab using Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad321bdfdf5f5af21c8efc8e5ead3d3') in 0.033660 seconds
+  Import took 0.040088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab
+  artifactKey: Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab using Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0a47c8682d51fc2fb847dc54e0d9378') in 0.032696 seconds
+  Import took 0.039008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113.457534 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab
+  artifactKey: Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab using Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4a0f9abb5f2e1d10246462f11ba96ec') in 0.080320 seconds
+  Import took 0.087369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.471766 seconds.
+  path: Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_Normal.png
+  artifactKey: Guid(2cafa5a933c28ee42ab69bc68810af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_Normal.png using Guid(2cafa5a933c28ee42ab69bc68810af8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '261e6f919f78135b73ac233e8debf323') in 0.060494 seconds
+  Import took 0.066721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_BaseColor.png
+  artifactKey: Guid(c127294cad03b3b4ba7302adbb0714f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_BaseColor.png using Guid(c127294cad03b3b4ba7302adbb0714f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73beb7f444db19f2512cb66174bfb8d2') in 0.012202 seconds
+  Import took 0.029257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_MaskMap.png
+  artifactKey: Guid(a9660d8d6163f1b46a8dcfcd2174d4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Art Assets/Environments/Rocks/Small/small_rocks_retopoed_Uved_smallRocks_MaskMap.png using Guid(a9660d8d6163f1b46a8dcfcd2174d4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1a55872176de4f12bc836ab709597b') in 0.011429 seconds
+  Import took 0.024119 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.295 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3493 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 202.4 MB.
+System memory in use after: 202.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 4419.
+Total: 3.483200 ms (FindLiveObjects: 0.439700 ms CreateObjectMapping: 0.142100 ms MarkObjects: 2.724500 ms  DeleteObjects: 0.175500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 255.126562 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab
+  artifactKey: Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Balcony.prefab using Guid(72613f3f52a0c894895df1393d3dee80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '623e410513bf10171f0f197cc362f665') in 0.137536 seconds
+  Import took 0.166815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.975920 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab
+  artifactKey: Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Beam_Vertical.prefab using Guid(9920debbea020c045ae25e18d47c5e90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a357e0165bb5faf71c9e32ff999a94cf') in 0.013441 seconds
+  Import took 0.035793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.766668 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab
+  artifactKey: Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Door.prefab using Guid(760f448074c4ad64a85b9ceb74efbe1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0136fb74092d59bd58d13a5f1ea3117c') in 0.014360 seconds
+  Import took 0.020535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.042070 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab
+  artifactKey: Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Full_Beam_Horizontal.prefab using Guid(4ddd6ff18822c1d4d9962f96d134a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca40b6b0d6da858bd360d2614846917') in 0.013464 seconds
+  Import took 0.019062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.148331 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab
+  artifactKey: Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_A.prefab using Guid(abd909cce401004438856c00c7914f56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20adfef36f76f12b00d43e0bb3609c03') in 0.014184 seconds
+  Import took 0.031068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.995615 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab
+  artifactKey: Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_B.prefab using Guid(19f67bc314c270544ab73106708112e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e7741c935b15aaa12c15de64d73cfb') in 0.012892 seconds
+  Import took 0.048013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.454045 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab
+  artifactKey: Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab using Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c81d79ca30ab809e7d417b979cb0155') in 0.013212 seconds
+  Import took 0.018947 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.838556 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab
+  artifactKey: Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Medium_Rock_C.prefab using Guid(c8409111118b1504f8e081160a4ed727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '347e0427591caef2fd502bcbe5d40ed2') in 0.009728 seconds
+  Import took 0.028858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.073723 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab
+  artifactKey: Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Beam.prefab using Guid(e92dff89b959a254492860f8ee0ecf84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c097c609216a35891b41636db584e9') in 0.013766 seconds
+  Import took 0.020645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.579115 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab
+  artifactKey: Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab using Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c95826974f0bf2057329642c5bedc1f6') in 0.012480 seconds
+  Import took 0.018885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.828287 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab
+  artifactKey: Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Full.prefab using Guid(fb26891a8c8a6ea48a62081884312ba7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb41ba320175eed229de594d11ffe7e5') in 0.010194 seconds
+  Import took 0.032401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.465280 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab
+  artifactKey: Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_A.prefab using Guid(43f224709c2656649a4311d7efea4466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e329fab4f574b69e1c1684dcebc08cb8') in 0.012871 seconds
+  Import took 0.022360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.963932 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab
+  artifactKey: Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_B.prefab using Guid(5170a8534c79d204fa70bb50ca904de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce7e10cff48d8e09c8a5bba736e953d7') in 0.013783 seconds
+  Import took 0.023473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab
+  artifactKey: Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_D.prefab using Guid(e930189627b75cc41bb5b0f644724b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc2176ee0d99a6d3ff02b5c514994baa') in 0.012429 seconds
+  Import took 0.017945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab
+  artifactKey: Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Small_Rock_C.prefab using Guid(c7e7fd5e67994cb4081a69129df8875c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072779db110ede291237b86c272bba31') in 0.012280 seconds
+  Import took 0.028886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.114345 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab
+  artifactKey: Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Doored.prefab using Guid(2f162d2254533fc4f87fb2a5b948062e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd60db524199ccb630a3416e9e8e7be4') in 0.011752 seconds
+  Import took 0.020452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.246561 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab
+  artifactKey: Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Half.prefab using Guid(7477dfc10c9f9a647955643ee4baa3d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '639d9050df7dc703d58c75c2050dd719') in 0.012335 seconds
+  Import took 0.032466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.056851 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab
+  artifactKey: Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_NormaL.prefab using Guid(0091b25ff401c204abc65b0fa31076dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c96c274fafac89dbd0fc39746f20c3') in 0.014689 seconds
+  Import took 0.020415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.304495 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab
+  artifactKey: Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_normal.prefab using Guid(dcdab5f42fc6ba448bec5beaea53f0ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d0e67db0c0421201fdfc90921d01f35') in 0.012800 seconds
+  Import took 0.018417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.722646 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab
+  artifactKey: Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Roof_small.prefab using Guid(9b89dc583de3ee046a1c3f42089256bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc91dea9fd2a78c7345fb82c40868cdb') in 0.012517 seconds
+  Import took 0.025666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.737549 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab
+  artifactKey: Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab using Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6398b2c474181b1bb7e0c9a97bcc3b99') in 0.012029 seconds
+  Import took 0.018584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015963 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab
+  artifactKey: Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_full.prefab using Guid(0984d1cc663de7f4d8c8c27eb2cd9088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6398b2c474181b1bb7e0c9a97bcc3b99') in 0.013820 seconds
+  Import took 0.019412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.827996 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab
+  artifactKey: Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_StoneDec_half.prefab using Guid(8a6dc7b57209efd40aace54494deacca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1b3579a99e29bbf38d894204fb7f12a') in 0.012713 seconds
+  Import took 0.036325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.126032 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab
+  artifactKey: Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Wall_Windowed.prefab using Guid(af0a6be468b92ef49bdca93898fbf4b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c86526aacc0bbfe81a275e47c7497b') in 0.012387 seconds
+  Import took 0.022868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.484066 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab
+  artifactKey: Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Window.prefab using Guid(6c9e6f6d52fb828449b049fcea46f8f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56d0db00575b85505c3427e6f247089') in 0.012730 seconds
+  Import took 0.027477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.369566 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab
+  artifactKey: Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab using Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a6ecd3740d706808014bcd32191f8f') in 0.012990 seconds
+  Import took 0.019547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.390719 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab
+  artifactKey: Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Arm_base.prefab using Guid(352f09788bf23c44ba37f0aa0ddf8605) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33d0ce283ba84229641678c194e1aa60') in 0.012991 seconds
+  Import took 0.018875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.046513 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab
+  artifactKey: Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab using Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd0f4a0332e3f1b331f5b40ee68e190') in 0.023157 seconds
+  Import took 0.049722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.998139 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab
+  artifactKey: Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Compass.prefab using Guid(fe2916ca3b7fc5c47b186da0f02b02ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0259333bc26ca2ad434447c701a362d') in 0.011424 seconds
+  Import took 0.017062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.931793 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab
+  artifactKey: Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer.prefab using Guid(5be4c54404d24a042a1e65366362512f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e7f8cbb78171498d440a423313712c4') in 0.013458 seconds
+  Import took 0.019029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab
+  artifactKey: Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hammer_Arm_Combo.prefab using Guid(160ac283519f87049bd268d860865283) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e057bbd62f7b0c71b368d9e2f6c3423') in 0.013372 seconds
+  Import took 0.027800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.051633 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4dae49bc4dda41e466a079a05660305') in 0.012984 seconds
+  Import took 0.033979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.288990 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa651a99d242ba7f987b289e2e816d19') in 0.010618 seconds
+  Import took 0.036339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.797769 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c872898c849a45d53830624b669c3d7') in 0.010604 seconds
+  Import took 0.028744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.594292 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab
+  artifactKey: Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook.prefab using Guid(744db2db61fa76c4b8171aa87d2fe124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c684b05406cb9049ab74a7b9c407c0') in 0.012255 seconds
+  Import took 0.017836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab
+  artifactKey: Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Hook_arm_Combo.prefab using Guid(139d4720e25da4948815c66727bd4332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc84ef6b9f7ab41af7b1cb2eba96fe5') in 0.009820 seconds
+  Import took 0.020829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.152369 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ecd2f31db07af5350c97e3a19dd19dc') in 0.015381 seconds
+  Import took 0.048238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.371932 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab
+  artifactKey: Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Ingot.prefab using Guid(75d106137f2aa074e9a893ecf1beaeca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b2abe843e33b7cb29e99c490f373b60') in 0.008960 seconds
+  Import took 0.016136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.511235 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab
+  artifactKey: Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab using Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63a83d4a7385dfb03ea890a0daa836a') in 0.011624 seconds
+  Import took 0.017742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.376643 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab
+  artifactKey: Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Scroll.prefab using Guid(6e4d9cf718e71604fa52c676c0d07548) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6246ad80cc3fc308717b2d17890ba886') in 0.009628 seconds
+  Import took 0.015194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.738922 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab
+  artifactKey: Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_A.prefab using Guid(b32d9be13cc0201479718267c7b00272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87bc939de4256c2ed0a59a29f6bd89e') in 0.011732 seconds
+  Import took 0.032573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.040274 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab
+  artifactKey: Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Shelf_B.prefab using Guid(7ad7fd12447a5bb4a8d48309d5f0ae55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '400c48f9efc7f4c97b263f5672e08c4c') in 0.012014 seconds
+  Import took 0.028224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.391803 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab
+  artifactKey: Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Spyglass.prefab using Guid(64f04c6936461ec43b696a25738453ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5a38ba555ffdd8a149dcaf12b5b3e6') in 0.012308 seconds
+  Import took 0.026957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.260349 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab
+  artifactKey: Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Stairs.prefab using Guid(ed5272a015b4afa4eb2dabbf7294cf7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ec9ce9c4c2a9a466cbffa6b815a928') in 0.012230 seconds
+  Import took 0.024377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.367617 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab
+  artifactKey: Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab using Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd162c8cc43a733e95b60633758bdfeb9') in 0.012125 seconds
+  Import took 0.042707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029961 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab
+  artifactKey: Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab using Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd162c8cc43a733e95b60633758bdfeb9') in 0.010755 seconds
+  Import took 0.016439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.969736 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab
+  artifactKey: Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wood Plank.prefab using Guid(e548d75c8014f8149aaf5b2e7c9a0758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efdcccacb0a6df27bfd3b886a2cfd02d') in 0.027355 seconds
+  Import took 0.032904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.988092 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab
+  artifactKey: Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab using Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3922e5c284459ae654bf330222eb4aa') in 0.012269 seconds
+  Import took 0.021015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.720951 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab
+  artifactKey: Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Wooden_Table.prefab using Guid(e8124b6be18c6eb44ae633fbdfe09ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989556214e4accc18b59844b713a4fe5') in 0.009116 seconds
+  Import took 0.024198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.181536 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab
+  artifactKey: Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Tankard.prefab using Guid(fb817e46fe3a7284e83dcf6e2bade10f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e2c7e64a432fe682468aae58124373c') in 0.009398 seconds
+  Import took 0.026384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 637.859654 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab
+  artifactKey: Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Environmental/Roof_Small.prefab using Guid(b3bbee3aab13ff24b8f955249771f2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39b540b65595b617f6aa4c9545158e5f') in 0.020324 seconds
+  Import took 0.026522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.395626 seconds.
+  path: Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab
+  artifactKey: Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Stylized Pirate Asset Set/Prefabs/Items/Workbench.prefab using Guid(88565ba6125493d4a88031e5ad79471a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf182926c5d98672eee7aa7ac13bef19') in 0.015515 seconds
+  Import took 0.056495 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
